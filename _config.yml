@@ -1,0 +1,14 @@
+layout_spectrum: 0.6981945680454373
+typography_spectrum: 0.24215457472018898
+color:
+  brandStrength: 0.0073564969934523106
+  lightness: 0.672519160900265
+  saturation: 0.4631399782374501
+  rhythmicContrast: 0.5048407155554742
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: inmyeye
